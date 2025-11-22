@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "descricao": "Trabalho de casa",
+        "origem": "email",
+        "prioridade": 1,
+        "status": "Excluída",
+        "data_criacao": "2025-11-21T21:03:46.975334",
+        "data_conclusao": "2025-11-21T21:10:36.180039"
+    },
+    {
+        "id": 2,
+        "descricao": "trabalho",
+        "origem": "email",
+        "prioridade": 5,
+        "status": "Fazendo",
+        "data_criacao": "2025-11-21T21:10:22.364306",
+        "data_conclusao": null
+    }
+]

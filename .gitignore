@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.swo
+.env
+.venv
+venv/
+.env/
+tarefas.json
+tarefas_arquivadas.json
